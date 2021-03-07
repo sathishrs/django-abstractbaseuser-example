@@ -14,7 +14,7 @@ SECRET_KEY = 'hk@q@1ae))x8z0b3o14riq+f8(a94m5$c%z2(*(zzo+j2_ugwp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dev.streaminginfra.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
